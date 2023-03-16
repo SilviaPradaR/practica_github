@@ -1,5 +1,5 @@
 # practica_github
-Maxi
-Diego Guajardo
-Silvia Prada
-
+- Georg 
+- Silvia Prada
+- Maxi
+- Diego Guajardo
